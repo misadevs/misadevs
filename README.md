@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misael Sifuentes</h1>
+<h1 align="center">Hi 👋, I'm Misael</h1>
 
 <p align="center">
   <b>Full Stack Developer & AI Engineering Student</b><br>
@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/misadevs">
-    <img src="https://komarev.com/ghpvc/?username=misadevs&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
-  </a>
+  <img src="https://img.shields.io/github/followers/misadevs?style=flat-square&color=6e5494&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=misadevs&color=blue&style=flat-square&label=Views" alt="Visitor Count" />
 </p>
 
 ---
@@ -42,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=misadevs&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Misael's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misadevs&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=misadevs&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=misadevs&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
